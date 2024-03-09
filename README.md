@@ -5,18 +5,18 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game wri
 ## How to Play
 
 1. Clone the repository:
-
+```bash
 git clone https://github.com/Younes-BoutelidjaneTicTacToe-CPP.git
-
+```
 
 2. Compile the code:
-
+```bash
 g++ main.cpp TicTacToe.cpp -o tictactoe
-
+```
 3. Run the executable:
-
+```bash
 ./tictactoe
-
+```
 
 4. Follow the on-screen instructions to play the game.
 
